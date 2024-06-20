@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Pillai</h1>
-<h3 align="center">Data Engineer: Turning Data into Solutions</h3>
+<h3 align="center">Machine Learning Engineer: Turning Data into Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-ap&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin-ap" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **End to End ETL Projects**
 
-- 🌱 I’m currently learning **AWS, ETL, HBase, Sqoop, Cassandra, Kafka**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Big Data, Cloud Computing, Data Engineering**
+- 💬 Ask me about **ML, AI, Big Data, Cloud Computing, Data Engineering**
 
 - 📫 How to reach me **ashwin8201@gmail.com**
 
