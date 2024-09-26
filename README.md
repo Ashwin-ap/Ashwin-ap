@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-ap" alt="ashwin-ap" /></a> </p>
 
-- 🔭 I’m currently working on **End to End ETL Projects**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🚀 Building scalable End-to-End ETL solutions
+  
+- 🤖 Exploring the depths of Machine Learning to create smarter, data-driven insights
 
 - 💬 Ask me about **ML, AI, Big Data, Cloud Computing, Data Engineering**
 
